@@ -4,7 +4,9 @@
 
 ## Используемые технологии
 
-![Ipynb](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+![Ipynb](https://img.shields.io/badge/HTML-8A2BE2)
+![Ipynb](https://img.shields.io/badge/CSS-8A2BE2)
+![Ipynb](https://img.shields.io/badge/JavaScript-8A2BE2)
 
 ## Полученный результат
 

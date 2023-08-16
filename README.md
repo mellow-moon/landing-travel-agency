@@ -6,7 +6,7 @@
 
 ![Ipynb](https://img.shields.io/badge/HTML-81B3D3)
 ![Ipynb](https://img.shields.io/badge/CSS-697C80)
-![Ipynb](https://img.shields.io/badge/JavaScript-72A4C7)
+![Ipynb](https://img.shields.io/badge/JavaScript-65C19D)
 
 ## Полученный результат
 
